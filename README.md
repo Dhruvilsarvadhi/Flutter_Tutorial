@@ -29,7 +29,7 @@
 
 > ---
 
->## [What is StatelessWidget in Flutter?](https://medium.com/@milankathiriya/what-is-statefulwidget-in-flutter-6e043c4cbda9)
+>## [What is StatefulWidget in Flutter?](https://medium.com/@milankathiriya/what-is-statefulwidget-in-flutter-6e043c4cbda9)
 
 >>A stateful widget is used when some part of the UI must change dynamically during runtime. Stateful widgets can redraw themselves multiple times while the app is running.
 
