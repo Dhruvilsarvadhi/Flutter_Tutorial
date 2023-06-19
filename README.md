@@ -1,5 +1,4 @@
 
-> ---
 ># <center/> **Flutter Tutorial** #
 
 >## [What is Flutter?](https://www.geeksforgeeks.org/what-is-flutter/)
@@ -159,6 +158,24 @@ flutter:
 >## [What is state management in Flutter and what are some methods used for it?](https://medium.com/flutter-community/a-list-of-state-management-approaches-in-flutter-1481ba522a51)
 
 >>This type of programming requires state management to handle such a situation to improve performance. It is because every time you make a change or update the same, the state gets refreshed. In Flutter, the state management categorizes into two conceptual types, which are given below: Ephemeral State. [click here](https://medium.com/@milankathiriya/what-is-state-in-flutter-describe-types-of-states-in-detail-22af620ba7d5)
+```
+ * Provider
+ * Riverpod
+ * setState
+ * InheritedWidget & InheritedModel
+ * Redux
+ * Fish-Redux
+ * BLoC / Rx
+ * GetIt
+ * MobX
+ * Flutter Commands
+ * Binder
+ * GetX
+ * states_rebuilder
+ * Triple Pattern (Segmented State Pattern)
+ * solidart
+ * flutter_reactive_value
+```
 
 > ---
 
